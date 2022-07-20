@@ -9,6 +9,7 @@ body{
 }
 
 header{
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,7 +19,8 @@ header h1{
     font-family: 'Loved by the King', cursive;
     letter-spacing: 15px;
     font-size: 50px;
-    color: #fff4f3
+    color: #fff4f3;
+    text-align: center;
 }
 
 main{
